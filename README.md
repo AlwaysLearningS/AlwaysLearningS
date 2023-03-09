@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm a Security Researcher 👨‍💻
 
-<!--
-**AlwaysLearningS/AlwaysLearningS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🕵️‍♂️
 
-Here are some ideas to get you started:
+With over 8 years of experience in software development, Reverse Engineering, exploit development, and Malware Analysis, I am passionate about securing digital assets and making the internet a safer place. I specialize in software development in Python, C, C++, Rust, and Javascript. I am certified in OSED, OSWE, and Burpsuite, and I am always striving to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications 🏅
+
+- OSED Certified Practitioner 🥇
+- OSWE Certified Practitioner 🥇
+- Burpsuite Certified Practitioner 🥇
+
+## Skills 🚀
+
+- Reverse Engineering 🔍
+- Exploit Development 💻
+- Malware Analysis 🦠
+- Python 🐍
+- C/C++ 🖥️
+- Rust 🦀
+- Javascript 🌐
+
+## Projects 💡
+
+
+
+## Contact Me 📬
+
+Feel free to reach out to me if you have any questions or if you're interested in working together:
+
