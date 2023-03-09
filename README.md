@@ -14,6 +14,7 @@ With over 8 years of experience in software development, Reverse Engineering, ex
 
 - Reverse Engineering 🔍
 - Exploit Development 💻
+- Web Penetration Testing ️‍🩹
 - Malware Analysis 🦠
 - Python 🐍
 - C/C++ 🖥️
