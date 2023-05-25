@@ -9,7 +9,6 @@ I am always striving to learn more!
 
 - OSED Certified Practitioner 🥇
 - OSWE Certified Practitioner 🥇
-- Burpsuite Certified Practitioner 🥇
 
 ## Skills 🚀
 
