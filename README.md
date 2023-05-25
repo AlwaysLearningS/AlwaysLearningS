@@ -1,4 +1,4 @@
-# Hello, I'm a Security Researcher 👨‍💻
+# Hello, I'm a Geek 👨‍💻
 
 ## About Me 🕵️‍♂️
 
